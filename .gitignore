@@ -1,0 +1,6 @@
+/venv
+
+/app/test.py
+/app/address.db
+/app/__pycache__
+/app/.DS_Store
